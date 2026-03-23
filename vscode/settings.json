@@ -1,0 +1,34 @@
+{
+  "workbench.colorTheme": "bac375a4-abb3-44d5-9bef-8039eb83fec0",
+  "editor.fontSize": 15,
+  "editor.minimap.enabled": false,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "ruby": false,
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "gitlens.advanced.messages": {
+    "suppressIntegrationRequestTimedOutWarning": true,
+  },
+  "editor.tabSize": 2,
+  "vim.disableExtension": true,
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "window.zoomLevel": 0.3,
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "Gemfile.lock": "text",
+  },
+  "rubyLsp.addonSettings": {
+    "Ruby LSP RSpec": {
+      "rspecCommand": "bundle exec rspec --color",
+    },
+  },
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.startupEditor": "none",
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+}

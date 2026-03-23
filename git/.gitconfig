@@ -1,0 +1,6 @@
+[user]
+	signingkey = A1AA8E248BF1EF0F7F5957110FDCF35C40EC07E5
+	name = Austin French
+	email = austindanielfrench@gmail.com
+[commit]
+	gpgsign = true
